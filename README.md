@@ -16,20 +16,17 @@
 <img src="https://img.shields.io/badge/Blog-6f57a9?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/savinqkr/">
-<img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <br/>
 
----
+<!-- GITHUB STATS -->
 
-<br/>
-
-<div style="display: flex; justify-content: space-between; align-items: start;">
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=savinqkr&show_icons=true&theme=dracula)
 
 <!-- TECH STACKS -->
-  <div style="flex: 1;">
-  
+
 ### 🚀 TECH STACKS
 
 <div>
@@ -52,17 +49,6 @@
 <img src="https://img.shields.io/badge/github-20232a.svg?style=for-the-badge&logo=github&logoColor=181717" />
 <img src="https://img.shields.io/badge/gitea-20232a.svg?style=for-the-badge&logo=gitea&logoColor=609926" />
 <img src="https://img.shields.io/badge/notion-20232a.svg?style=for-the-badge&logo=notion&logoColor=000000" />
-</div>
-
-  </div>
-
-  <!-- GITHUB STATS -->
-  <div style="flex: 1;">
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=savinqkr&show_icons=true&theme=dracula)
-
-  </div>
-
 </div>
 
 <!--
