@@ -1,6 +1,4 @@
-<h1 style="color:#20232a;">
-Savin Park
-</h1>
+# Savin Park
 
 <h3 style="color:#20232a;">
 👋🏻 안녕하세요! 프론트엔드 개발자 박은지 입니다 : )
