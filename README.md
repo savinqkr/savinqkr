@@ -8,6 +8,12 @@ Savin Park
 
 <br/>
 
+<!-- GITHUB STATS -->
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=savinqkr&show_icons=true&theme=dracula)
+
+<br/>
+
 <!-- TECH STACKS -->
 
 ### 🚀 TECH STACKS
@@ -54,10 +60,6 @@ Savin Park
 </a>
 
 <br/>
-
-<!-- GITHUB STATS -->
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=savinqkr&show_icons=true&theme=dracula)
 
 <!--
 **savinqkr/savinqkr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
