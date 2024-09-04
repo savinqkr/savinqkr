@@ -1,10 +1,44 @@
-# Savin Park
+<h1 style="color:#20232a;">
+Savin Park
+</h1>
 
-### 👋🏻 안녕하세요! 프론트엔드 개발자 박은지 입니다 : )
+<h3 style="color:#20232a;">
+👋🏻 안녕하세요! 프론트엔드 개발자 박은지 입니다 : )
+</h3>
+
+<br/>
+
+<!-- TECH STACKS -->
+
+### 🚀 TECH STACKS
+
+<div>
+<img src="https://img.shields.io/badge/html5-ffffff.svg?style=for-the-badge&logo=html5&logoColor=E34F26" />
+<img src="https://img.shields.io/badge/css3-ffffff.svg?style=for-the-badge&logo=css3&logoColor=1572B6" />
+<img src="https://img.shields.io/badge/javascript-ffffff.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/typescript-ffffff.svg?style=for-the-badge&logo=typescript&logoColor=3178C6" />
+<img src="https://img.shields.io/badge/dart-ffffff.svg?style=for-the-badge&logo=dart&logoColor=0175C2" />
+</div>
+<div>
+<img src="https://img.shields.io/badge/react-ffffff.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/next.js-ffffff.svg?style=for-the-badge&logo=next.js&logoColor=000000" />
+<img src="https://img.shields.io/badge/recoil-ffffff.svg?style=for-the-badge&logo=recoil&logoColor=3578E5" />
+<img src="https://img.shields.io/badge/graphql-ffffff.svg?style=for-the-badge&logo=graphql&logoColor=E10098" />
+<img src="https://img.shields.io/badge/flutter-ffffff.svg?style=for-the-badge&logo=flutter&logoColor=02569B" />
+<img src="https://img.shields.io/badge/docker-ffffff.svg?style=for-the-badge&logo=docker&logoColor=2496ED" />
+</div>
+<div>
+<img src="https://img.shields.io/badge/git-ffffff.svg?style=for-the-badge&logo=git&logoColor=F05032" />
+<img src="https://img.shields.io/badge/github-ffffff.svg?style=for-the-badge&logo=github&logoColor=181717" />
+<img src="https://img.shields.io/badge/gitea-ffffff.svg?style=for-the-badge&logo=gitea&logoColor=609926" />
+<img src="https://img.shields.io/badge/notion-ffffff.svg?style=for-the-badge&logo=notion&logoColor=000000" />
+</div>
 
 <br/>
 
 <!-- CHANNELS -->
+
+### 🔗 CHANNELS
 
 <a href="https://github.com/savinqkr">
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
@@ -24,32 +58,6 @@
 <!-- GITHUB STATS -->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=savinqkr&show_icons=true&theme=dracula)
-
-<!-- TECH STACKS -->
-
-### 🚀 TECH STACKS
-
-<div>
-<img src="https://img.shields.io/badge/html5-20232a.svg?style=for-the-badge&logo=html5&logoColor=E34F26" />
-<img src="https://img.shields.io/badge/css3-20232a.svg?style=for-the-badge&logo=css3&logoColor=1572B6" />
-<img src="https://img.shields.io/badge/javascript-20232a.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-<img src="https://img.shields.io/badge/typescript-20232a.svg?style=for-the-badge&logo=typescript&logoColor=3178C6" />
-<img src="https://img.shields.io/badge/dart-20232a.svg?style=for-the-badge&logo=dart&logoColor=0175C2" />
-</div>
-<div>
-<img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/next.js-20232a.svg?style=for-the-badge&logo=next.js&logoColor=000000" />
-<img src="https://img.shields.io/badge/recoil-20232a.svg?style=for-the-badge&logo=recoil&logoColor=3578E5" />
-<img src="https://img.shields.io/badge/graphql-20232a.svg?style=for-the-badge&logo=graphql&logoColor=E10098" />
-<img src="https://img.shields.io/badge/flutter-20232a.svg?style=for-the-badge&logo=flutter&logoColor=02569B" />
-<img src="https://img.shields.io/badge/docker-20232a.svg?style=for-the-badge&logo=docker&logoColor=2496ED" />
-</div>
-<div>
-<img src="https://img.shields.io/badge/git-20232a.svg?style=for-the-badge&logo=git&logoColor=F05032" />
-<img src="https://img.shields.io/badge/github-20232a.svg?style=for-the-badge&logo=github&logoColor=181717" />
-<img src="https://img.shields.io/badge/gitea-20232a.svg?style=for-the-badge&logo=gitea&logoColor=609926" />
-<img src="https://img.shields.io/badge/notion-20232a.svg?style=for-the-badge&logo=notion&logoColor=000000" />
-</div>
 
 <!--
 **savinqkr/savinqkr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
