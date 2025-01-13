@@ -49,12 +49,14 @@
 <a href="https://github.com/savinqkr">
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+<!-- 
 <a href="https://savinqkr.notion.site/Welcome-7ed0088f908b439b8a070f858a4a8424?pvs=4">
 <img src="https://img.shields.io/badge/Notion-ffffff?style=for-the-badge&logo=notion&logoColor=black" />
 </a>
 <a href="https://savinqkr.github.io/">
 <img src="https://img.shields.io/badge/Blog-6f57a9?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+ -->
 <a href="https://www.linkedin.com/in/savinqkr/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
